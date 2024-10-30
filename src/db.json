@@ -1,0 +1,8 @@
+
+{
+    "images": [
+      { "id": 1, "src": "/src/image1.jpg", "alt": "Image 1", "description": "Details about Image 1", "details": "fruits" },
+      { "id": 2, "src": "/src/image2.jpg", "alt": "Image 2", "description": "Details about Image 2", "details": "fruits" },
+      { "id": 3, "src": "/src/image3.jpg", "alt": "Image 3", "description": "Details about Image 3", "details": "fruits" }
+    ]
+  }
